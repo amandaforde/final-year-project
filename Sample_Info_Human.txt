@@ -1,0 +1,23 @@
+Sample Number	Sample ID	"Factors (treatments, time points etc)"						
+		factor A	factor B	factor C	factor D	factor E	factor F	Pairs
+1	EV BT-20	Isolated Media EVs in 40µl PBS	Secreted EV	human microRNAs	
+2	EV HCC-1954-luc	Isolated Media EVs in 40µl PBS	Secreted EV	human microRNAs	
+3	EV HCC-1954	Isolated Media EVs in 22µl PBS	Secreted EV	human microRNAs	
+4	EV T47D	Isolated Media EVs in 40µl PBS	Secreted EV	human microRNAs	
+5	RNA BT-20	Isolated Cell RNA	Cell 	human microRNAs
+6	RNA HCC-1954-luc	Isolated Cell RNA	Cell 	human microRNAs
+7	RNA HCC-1954	Isolated Cell RNA	Cell 	human microRNAs
+8	RNA T47D	Isolated Cell RNA	Cell 	human microRNAs	
+9	Serum EV 1	Isolated EVs in 40µl PBS	Cancer	human microRNAs				
+10	Serum EV 2	Isolated EVs in 40µl PBS	Cancer	human microRNAs				
+11	Serum EV 3	Isolated EVs in 40µl PBS	Cancer	human microRNAs				
+12	Serum EV 4	Isolated EVs in 40µl PBS	Cancer	human microRNAs				
+13	Serum EV 5	Isolated EVs in 40µl PBS	Control	human microRNAs				
+14	Serum EV 6	Isolated EVs in 40µl PBS	Control	human microRNAs				
+15	Serum EV 7	Isolated EVs in 40µl PBS	Control	human microRNAs				
+16	Serum EV 8	Isolated EVs in 40µl PBS	Control	human microRNAs				
+17	RNA 4T1 A	Isolated Cell RNA	Cell 	murine microRNAs				
+18	EV 4T1 A	Isolated Media EVs in 40µl PBS	Secreted EV	murine microRNAs				
+19	RNA 4T1 B	Isolated Cell RNA	Cell 	murine microRNAs				
+20	EV 4T1 B	Isolated Media EVs in 40µl PBS	Secreted EV	murine microRNAs				
+21								
