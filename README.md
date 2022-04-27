@@ -1,1 +1,1 @@
-# final-year-project
+# BSc Mathematical Science Final Year Project
